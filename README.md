@@ -1,6 +1,6 @@
 # Badge per Nuvio (copia corretta)
 
-Regole dei badge delle fonti per **Nuvio** (Impostazioni → badge delle fonti → importa da URL).
+Regole dei badge delle fonti per **Nuvio** (Nuvio Desktop 0.1.38: Impostazioni → Flussi → sezione "STILE FUSION" → "URL badge Fusion" → incolla l'URL → "Importa"; poi tocca la riga nuova per renderla "Attivo").
 
 Origine: regole condivise su pastebin `aR5uAwma`, immagini del pacchetto
 [djgenesis/stream](https://github.com/djgenesis/stream) (le immagini restano collegate all'originale).
